@@ -1,2 +1,2 @@
-# projects
+# project spotify clone
 spotify clone with responsive...
